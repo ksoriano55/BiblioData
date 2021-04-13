@@ -15,6 +15,9 @@ public:
     explicit FrmPrestamo(QWidget *parent = nullptr);
     ~FrmPrestamo();
 
+private slots:
+    void on_btnSalir_clicked();
+
 private:
     Ui::FrmPrestamo *ui;
 };

@@ -12,3 +12,9 @@ FrmPrestamo::~FrmPrestamo()
 {
     delete ui;
 }
+
+void FrmPrestamo::on_btnSalir_clicked()
+{
+    FrmPrestamo *VentPrestamo = new FrmPrestamo();
+    VentPrestamo->close();
+}
