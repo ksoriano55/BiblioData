@@ -16,14 +16,17 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     frmcliente.cpp \
     frmlibro.cpp \
-    frmcategoria.cpp
+    frmcategoria.cpp \
+    frmprestamo.cpp
 
 HEADERS  += mainwindow.h \
     frmcliente.h \
     frmlibro.h \
-    frmcategoria.h
+    frmcategoria.h \
+    frmprestamo.h
 
 FORMS    += mainwindow.ui \
     frmcliente.ui \
     frmlibro.ui \
-    frmcategoria.ui
+    frmcategoria.ui \
+    frmprestamo.ui

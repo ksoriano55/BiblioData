@@ -37,56 +37,56 @@
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btnClienteShow">
     <property name="geometry">
      <rect>
       <x>120</x>
       <y>60</y>
-      <width>101</width>
+      <width>111</width>
       <height>31</height>
      </rect>
     </property>
     <property name="text">
-     <string>Cliente</string>
+     <string>CLIENTE</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="btnLibrosShow">
     <property name="geometry">
      <rect>
       <x>120</x>
       <y>100</y>
-      <width>101</width>
+      <width>111</width>
       <height>31</height>
      </rect>
     </property>
     <property name="text">
-     <string>Libros</string>
+     <string>LIBROS</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="btnPrestamosShow">
     <property name="geometry">
      <rect>
       <x>120</x>
       <y>180</y>
-      <width>101</width>
+      <width>111</width>
       <height>31</height>
      </rect>
     </property>
     <property name="text">
-     <string>Prestamos Libros</string>
+     <string>PRESTAMOS LIBROS</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="btnCategoriaShow">
     <property name="geometry">
      <rect>
       <x>120</x>
       <y>140</y>
-      <width>101</width>
+      <width>111</width>
       <height>31</height>
      </rect>
     </property>
     <property name="text">
-     <string>Categoria</string>
+     <string>CATEGORIA</string>
     </property>
    </widget>
   </widget>

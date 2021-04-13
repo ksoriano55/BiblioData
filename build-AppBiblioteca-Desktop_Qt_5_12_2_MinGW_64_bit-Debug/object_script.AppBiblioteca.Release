@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/frmcliente.o
+release/frmlibro.o
+release/frmcategoria.o
+release/frmprestamo.o
+release/moc_mainwindow.o
+release/moc_frmcliente.o
+release/moc_frmlibro.o
+release/moc_frmcategoria.o
+release/moc_frmprestamo.o

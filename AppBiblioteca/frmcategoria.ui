@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>453</width>
-    <height>252</height>
+    <height>232</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -33,7 +33,7 @@
     <string>CATEGORIA</string>
    </property>
   </widget>
-  <widget class="QTextBrowser" name="textBrowser">
+  <widget class="QTextBrowser" name="txtId">
    <property name="geometry">
     <rect>
      <x>110</x>
@@ -43,7 +43,7 @@
     </rect>
    </property>
   </widget>
-  <widget class="QTextBrowser" name="textBrowser_2">
+  <widget class="QTextBrowser" name="txtCategoria">
    <property name="geometry">
     <rect>
      <x>110</x>
@@ -53,7 +53,7 @@
     </rect>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="btnNuevo">
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -66,7 +66,7 @@
     <string>NUEVO</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="btnGuardar">
    <property name="geometry">
     <rect>
      <x>100</x>
@@ -79,7 +79,7 @@
     <string>GUARDAR</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="btnEditar">
    <property name="geometry">
     <rect>
      <x>180</x>
@@ -92,7 +92,7 @@
     <string>EDITAR</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
+  <widget class="QPushButton" name="btnEliminar">
    <property name="geometry">
     <rect>
      <x>260</x>
@@ -105,7 +105,7 @@
     <string>ELIMINAR</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_5">
+  <widget class="QPushButton" name="btnSalir">
    <property name="geometry">
     <rect>
      <x>340</x>

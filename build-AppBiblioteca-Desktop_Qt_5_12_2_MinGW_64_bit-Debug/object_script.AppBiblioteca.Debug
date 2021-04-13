@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/frmcliente.o
+debug/frmlibro.o
+debug/frmcategoria.o
+debug/frmprestamo.o
+debug/moc_mainwindow.o
+debug/moc_frmcliente.o
+debug/moc_frmlibro.o
+debug/moc_frmcategoria.o
+debug/moc_frmprestamo.o
